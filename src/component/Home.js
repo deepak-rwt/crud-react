@@ -38,7 +38,6 @@ const handledelet=(id)=>{
             <th>Name</th>
             <th>Email</th>
             <th>Address</th>
-            <th>City</th>
             <th>Phone</th>
             <th colSpan={3}> Actions</th>
             </tr>
