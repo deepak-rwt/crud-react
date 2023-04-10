@@ -1,0 +1,32 @@
+{
+  "userList": [
+    {
+      "name": "deepak Rawat",
+      "email": "deepak@gmail.com",
+      "address": "new delhi",
+      "phone": "09876545367",
+      "id": 1
+    },
+    {
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "address": "Delhi",
+      "phone": "09876543210",
+      "id": 2
+    },
+    {
+      "name": "shubham singh",
+      "email": "shubham@gmail.com",
+      "address": "Haryana",
+      "phone": "8899007766",
+      "id": 3
+    },
+    {
+      "name": "Raman kumar",
+      "email": "kumarraman@gmail.com",
+      "address": "kasdsjjkk",
+      "phone": "33229487522",
+      "id": 4
+    }
+  ]
+}
